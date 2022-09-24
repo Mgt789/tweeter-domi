@@ -1,0 +1,36 @@
+@media (max-width: 1280px) {
+   
+}
+
+@media (max-width: 1199px) {
+    
+}
+
+@media (max-width: 991px) {
+
+    
+}
+
+@media (max-width: 767px) {
+   
+}
+
+@media (max-width: 575px) {
+    .nav-items{
+        gap: 5px;
+        font-size: 12px;
+    }
+    .icon{
+        padding-left: 9px;
+    }
+    .col-4{
+        font-size: 19px;
+    }
+    .nav-btn input{
+        font-size: 12px;
+    }
+    .tweet-box{
+        padding: 7px 7px 0 7px;
+    }
+}
+
